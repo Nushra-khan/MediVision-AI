@@ -29,8 +29,4 @@ It enables users to **upload a medical report image**, extract its text using OC
 | Interface       | Gradio |
 | Environment     | Google Colab |
 
----
 
-
-!pip install transformers accelerate sentencepiece
-!pip install gradio
